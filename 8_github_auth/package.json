@@ -1,5 +1,5 @@
 {
-  "name": "simple-todo-project",
+  "name": "simple-todos-react",
   "private": true,
   "scripts": {
     "start": "meteor run",
@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.15.4",
-    "meteor-node-stubs": "^1.2.1",
+    "bcrypt": "^5.0.1",
+    "meteor-node-stubs": "^1.1.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
